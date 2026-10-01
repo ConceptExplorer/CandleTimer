@@ -2,7 +2,7 @@
 
 A lightweight, always-on-top C# WinForms desktop timer overlay designed for traders using platforms like thinkorswim. It counts down to candle closes across standard timeframes in real time.
 
-![CandleTimer Screenshot](screenshot.png)
+![CandleTimer Screenshot](docs/images/screenshot.png)
 
 ## Features
 
